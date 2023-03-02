@@ -1,0 +1,19 @@
+/*ARDUINO PINLER
+*RFID----------->SDA-10
+*   ------------>SCK-13
+*   ------------>MOS-11
+*   ------------>IMI-12
+*   ------------>3.3V-3.3V
+*   ------------>RST-9
+*   ------------>GND-GND
+*PIR------------>7
+*LDR(karanlık)------------->A0
+*servo_kapi-8
+*BUZZER---------->6
+*ROLE/LAMBA------->5
+*GAZSENSOR-------->A1
+*GAZSENSOR-------->BUZZER-4
+*SICAKLIKSEN------>A2
+*DCMOTOR--------->3
+*https://www.tinkercad.com/things/4T1Inc3qpGl-akilliev/editel
+*/
